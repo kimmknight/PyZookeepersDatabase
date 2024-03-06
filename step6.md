@@ -49,9 +49,9 @@ greet()
 ## Steps
 
 1. Edit your zoo-manager.py file.
-2. Above all other code, create a function called *displayAnimals()*.
+2. Above all other code, create a function called *display_animals()*.
 3. Inside the function add a `print` statement that prints the `animals` list variable.
-4. Make it so that when the user enters "1" at the menu, instead of printing `You entered 1`, the `displayAnimals()` function is called.
+4. Make it so that when the user enters "1" at the menu, instead of printing `You entered 1`, the `display_animals()` function is called.
 5. Save and run your program. If you enter 1 at the menu, do you see your animal list?
 
 ## More Information
