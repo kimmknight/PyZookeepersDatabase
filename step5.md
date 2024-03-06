@@ -33,23 +33,37 @@ user1 = "amy.smith"
 user2 = "james.boo"
 ```
 
-This approach is impractical and has many problems. What if we need to store an unknown or changing number of items?
+This approach is impractical and hard to manage as the number of items increases.
 
-This is what lists are for! For example:
+To handle multiple pieces of data more efficiently, Python offers lists. Lists are ordered collections of items.
+
+Lists are created like any other variable except, however each item in the collection must be separated by a comma, and the collection must be surrounded with square brackets. For example:
 
 ```
 users = ["amy.smith", "james.boo"]
 ```
 
+Lists are mutable, meaning that after the list is created, you can modify, add, or remove items.
+
+To add items to a list, you can use the `append()` method to add an item to the end of the list:
+
+```
+users.append("frank.doe")
+```
+
+To remove items from a list, you can use the `remove()` method to delete a specific item:
+
+```
+users.remove("amy.smith")
+```
+
 
 ## Steps
-UPDATE THIS
+
 1. Edit your zoo-manager.py file.
-2. Create an infinite loop using a `while 1:` statement at the top of your code.
-3. Indent all other lines of your code (1 level) to add them to the loop.
-4. Save and run your program. Does it work correctly? Does it return to the menu after making a selection?
+2. Above all the other code, create a list called `animals` with the names of three types of animals added.
 
 ## More Information
 
-- [W3Schools: Python While Loops](https://www.w3schools.com/python/python_while_loops.asp)
+- [W3Schools: Python Lists](https://www.w3schools.com/python/python_lists.asp)
 
