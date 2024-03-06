@@ -47,5 +47,5 @@ In this example, the `while` loop will keep run until it is stopped. The user ca
 
 ## More Information
 
-- [W3Schools: Python print() Function](https://www.w3schools.com/python/ref_func_print.asp)
+- [W3Schools: Python While Loops](https://www.w3schools.com/python/python_while_loops.asp)
 
