@@ -33,7 +33,13 @@ user1 = "amy.smith"
 user2 = "james.boo"
 ```
 
-This approach has some problems. What if we need to store an unknown number of  
+This approach is impractical and has many problems. What if we need to store an unknown or changing number of items?
+
+This is what lists are for! For example:
+
+```
+users = ["amy.smith", "james.boo"]
+```
 
 
 ## Steps
