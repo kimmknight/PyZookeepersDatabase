@@ -47,3 +47,4 @@ To help you understand what the finished product will look like, you can [downlo
 - [2. Ask the user for input](step2.md)
 - [3. Take different actions based on user input](step3.md)
 - [4. Loop back to the menu after taking an action](step4.md)
+- [5. Create and sort a list](step5.md)
