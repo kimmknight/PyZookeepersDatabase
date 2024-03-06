@@ -57,11 +57,19 @@ To remove items from a list, you can use the `remove()` method to delete a speci
 users.remove("amy.smith")
 ```
 
+You can sort a list using the `sort()` method, which arranges the items in ascending order by default:
+
+```
+letters = ['C', 'A', 'D', 'B', 'F', 'E', 'G']
+letters.sort()
+```
 
 ## Steps
 
 1. Edit your zoo-manager.py file.
-2. Above all the other code, create a list called `animals` with the names of three types of animals added.
+2. Above all the other code, create a list called `animals` with the names of three (or more) types of animals added. For example: "Tiger", "Dolphin", "Monkey"
+3. After the list is created, sort it using the `.sort()` function.
+4. Save your program.
 
 ## More Information
 
