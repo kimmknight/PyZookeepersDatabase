@@ -49,3 +49,4 @@ To help you understand what the finished product will look like, you can [downlo
 - [4. Loop back to the menu after taking an action](step4.md)
 - [5. Create and sort a list](step5.md)
 - [6. Create a function to display a list](step6.md)
+- [7. Create a loop to display a list nicely](step7.md)
